@@ -1,0 +1,12 @@
+# English strings go here
+en:
+  project_module_default_assignee: Исполнители по умолчанию
+  permission_rda_default_assignee: Исполнители по умолчанию
+  redmine_default_assignee:
+    settings:
+      header: Исполнители по умолчанию
+      info: Укажите пользователей, которые будут автоматически назначаться в зависимости от статуса задачи
+    project_settings:
+      label_default_assignee: Исполнители по умолчанию
+      error_update_not_successful: Невозможно сохранить настройки проекта
+
